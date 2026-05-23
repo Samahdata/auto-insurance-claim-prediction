@@ -97,7 +97,7 @@ cd auto-insurance-claim-prediction
 pip install -r requirements.txt
 
 # 3. Run the notebook
-jupyter notebook notebook.ipynb
+jupyter notebook insurance_claims_project.ipynb
 ```
 
 ---
