@@ -90,7 +90,7 @@ Re-split data chronologically (oldest 80% → train, newest 20% → test) to sim
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/auto-insurance-claim-prediction.git
+git clone https://github.com/Samahdata/auto-insurance-claim-prediction.git
 cd auto-insurance-claim-prediction
 
 # 2. Install dependencies
